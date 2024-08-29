@@ -11,13 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Manasvi Meka's First CS 193 Homework 
-## Welcome to the website. 
-### Here are some fun things about CS 193
+# Heading 1 
+## Heading 2 
+### Heading 3
 
-- Doing this!!!
-- Learning how to use github and basic commands on the terminal
-- Meeting new people!!!!
+- Bulleted
 - List
 
 1. Numbered
@@ -29,6 +27,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Manasvi Meka's First CS 193 Homework 
+  Here are some of my favorite stuff about CS 193
+  - Doing this!!
+  - Learning how to use git and basic commands on the terminal
+  - Meeting new people!!
+
 
 ### Jekyll Themes
 
